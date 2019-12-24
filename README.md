@@ -1,0 +1,1 @@
+# FACADE pattern golang example
